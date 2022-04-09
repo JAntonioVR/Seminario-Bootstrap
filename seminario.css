@@ -1,0 +1,6 @@
+#breakpoint-example>[class^="container"], #grid-example .row>[class^="col"], #form-example .row>[class^="col"]{
+    padding-top: 0.75em;
+    padding-bottom: 0.75em;
+    border: 1px solid rgba(39, 41, 43, 0.1);
+    background-color: rgba(39, 41, 43, 0.03);   
+}
